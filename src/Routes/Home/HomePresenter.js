@@ -6,7 +6,7 @@ import Section from "Components/Section";
 import Loader from "../../Components/Loader";
 
 const Container = styled.div`
-  padding: 0px 10px;
+  padding: 0px 20px;
 `;
 
 const HomePresenter = ({ nowPlaying, popular, upcoming, loading, error }) =>
